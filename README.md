@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiul-shadman&label=Profile%20views&color=0e75b6&style=flat" alt="samiul-shadman" /> </p>
 
-- 💬 Ask me about **laravel,PHP,HTML,CSS**
+- 💬 Ask me about **Laravel, PHP, HTML, CSS, JS, Vue, Inertia, GO, C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
